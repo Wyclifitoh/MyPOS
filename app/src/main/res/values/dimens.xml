@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="margin_bottom">20sp</dimen>
+    <dimen name="text_size">15sp</dimen>
+
+    <dimen name="spacing_18">18dp</dimen>
+
+</resources>
